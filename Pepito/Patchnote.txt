@@ -1,0 +1,11 @@
+Patch du 22/03/2012
+--------------------------------------------
+Corrections
+
+- Bug sur l'handle des recettes
+- Erreur dans le mot de passe XORé ...
+- "Use after free" non-exploitable supprimé
+
+Ajouts de contenu
+
+- Client interactif avec description des commandes
