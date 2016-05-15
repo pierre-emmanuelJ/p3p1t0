@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/pepito.dir/src/daemon.o CMakeFiles/pepito.dir/src/main.o CMakeFiles/pepito.dir/src/network.o CMakeFiles/pepito.dir/src/utils.o  -o pepito -rdynamic lib/libsecret.so lib/libsupersecret.so 
