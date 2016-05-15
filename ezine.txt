@@ -1,0 +1,66 @@
+﻿Rapport
+
+Reverse :
+
+Reverse sur la libsecret.so.
+Outils utilisés pour la réalisation de la ./2016_P3p1t0/reverse/libsecret.c:
+
+- objdump
+- radar
+
+Exploit:
+
+“int overflow” sur le nombre de produit acheté ce qui afecte aussi le porte monaie 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Patch :
+
+
